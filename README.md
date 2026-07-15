@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/aditigandhi2701-hue/DSA/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/aditigandhi2701-hue/DSA/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/aditigandhi2701-hue/DSA/tree/master/0485-max-consecutive-ones) |
+| [0560-subarray-sum-equals-k](https://github.com/aditigandhi2701-hue/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/aditigandhi2701-hue/DSA/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Two Pointers
 |  |
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/aditigandhi2701-hue/DSA/tree/master/0001-two-sum) |
 | [0169-majority-element](https://github.com/aditigandhi2701-hue/DSA/tree/master/0169-majority-element) |
+| [0560-subarray-sum-equals-k](https://github.com/aditigandhi2701-hue/DSA/tree/master/0560-subarray-sum-equals-k) |
 ## Sorting
 |  |
 | ------- |
@@ -59,4 +61,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2149-rearrange-array-elements-by-sign](https://github.com/aditigandhi2701-hue/DSA/tree/master/2149-rearrange-array-elements-by-sign) |
+## Prefix Sum
+|  |
+| ------- |
+| [0560-subarray-sum-equals-k](https://github.com/aditigandhi2701-hue/DSA/tree/master/0560-subarray-sum-equals-k) |
 <!---LeetCode Topics End-->
