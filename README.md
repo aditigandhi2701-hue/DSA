@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/aditigandhi2701-hue/DSA/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/aditigandhi2701-hue/DSA/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/aditigandhi2701-hue/DSA/tree/master/0075-sort-colors) |
+| [0078-subsets](https://github.com/aditigandhi2701-hue/DSA/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/aditigandhi2701-hue/DSA/tree/master/0079-word-search) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/aditigandhi2701-hue/DSA/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0090-subsets-ii](https://github.com/aditigandhi2701-hue/DSA/tree/master/0090-subsets-ii) |
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/aditigandhi2701-hue/DSA/tree/master/0029-divide-two-integers) |
+| [0078-subsets](https://github.com/aditigandhi2701-hue/DSA/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/aditigandhi2701-hue/DSA/tree/master/0090-subsets-ii) |
 | [0136-single-number](https://github.com/aditigandhi2701-hue/DSA/tree/master/0136-single-number) |
 | [0231-power-of-two](https://github.com/aditigandhi2701-hue/DSA/tree/master/0231-power-of-two) |
@@ -280,6 +282,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/aditigandhi2701-hue/DSA/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/aditigandhi2701-hue/DSA/tree/master/0040-combination-sum-ii) |
 | [0051-n-queens](https://github.com/aditigandhi2701-hue/DSA/tree/master/0051-n-queens) |
+| [0078-subsets](https://github.com/aditigandhi2701-hue/DSA/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/aditigandhi2701-hue/DSA/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/aditigandhi2701-hue/DSA/tree/master/0090-subsets-ii) |
 | [0282-expression-add-operators](https://github.com/aditigandhi2701-hue/DSA/tree/master/0282-expression-add-operators) |
