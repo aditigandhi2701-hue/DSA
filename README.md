@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/aditigandhi2701-hue/DSA/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/aditigandhi2701-hue/DSA/tree/master/0189-rotate-array) |
 | [0229-majority-element-ii](https://github.com/aditigandhi2701-hue/DSA/tree/master/0229-majority-element-ii) |
+| [0239-sliding-window-maximum](https://github.com/aditigandhi2701-hue/DSA/tree/master/0239-sliding-window-maximum) |
 | [0240-search-a-2d-matrix-ii](https://github.com/aditigandhi2701-hue/DSA/tree/master/0240-search-a-2d-matrix-ii) |
 | [0283-move-zeroes](https://github.com/aditigandhi2701-hue/DSA/tree/master/0283-move-zeroes) |
 | [0410-split-array-largest-sum](https://github.com/aditigandhi2701-hue/DSA/tree/master/0410-split-array-largest-sum) |
@@ -250,6 +251,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0239-sliding-window-maximum](https://github.com/aditigandhi2701-hue/DSA/tree/master/0239-sliding-window-maximum) |
 | [0451-sort-characters-by-frequency](https://github.com/aditigandhi2701-hue/DSA/tree/master/0451-sort-characters-by-frequency) |
 ## Bucket Sort
 |  |
@@ -327,6 +329,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/aditigandhi2701-hue/DSA/tree/master/0225-implement-stack-using-queues) |
+| [0239-sliding-window-maximum](https://github.com/aditigandhi2701-hue/DSA/tree/master/0239-sliding-window-maximum) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -334,4 +337,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/aditigandhi2701-hue/DSA/tree/master/0496-next-greater-element-i) |
 | [0907-sum-of-subarray-minimums](https://github.com/aditigandhi2701-hue/DSA/tree/master/0907-sum-of-subarray-minimums) |
 | [2104-sum-of-subarray-ranges](https://github.com/aditigandhi2701-hue/DSA/tree/master/2104-sum-of-subarray-ranges) |
+## Sliding Window
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/aditigandhi2701-hue/DSA/tree/master/0239-sliding-window-maximum) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/aditigandhi2701-hue/DSA/tree/master/0239-sliding-window-maximum) |
+## Range Minimum/Maximum Query
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/aditigandhi2701-hue/DSA/tree/master/0239-sliding-window-maximum) |
 <!---LeetCode Topics End-->
