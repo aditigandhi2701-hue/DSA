@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0090-subsets-ii](https://github.com/aditigandhi2701-hue/DSA/tree/master/0090-subsets-ii) |
 | [0118-pascals-triangle](https://github.com/aditigandhi2701-hue/DSA/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/aditigandhi2701-hue/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0135-candy](https://github.com/aditigandhi2701-hue/DSA/tree/master/0135-candy) |
 | [0136-single-number](https://github.com/aditigandhi2701-hue/DSA/tree/master/0136-single-number) |
 | [0152-maximum-product-subarray](https://github.com/aditigandhi2701-hue/DSA/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/aditigandhi2701-hue/DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -209,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0135-candy](https://github.com/aditigandhi2701-hue/DSA/tree/master/0135-candy) |
 | [0402-remove-k-digits](https://github.com/aditigandhi2701-hue/DSA/tree/master/0402-remove-k-digits) |
 | [0410-split-array-largest-sum](https://github.com/aditigandhi2701-hue/DSA/tree/master/0410-split-array-largest-sum) |
 | [0435-non-overlapping-intervals](https://github.com/aditigandhi2701-hue/DSA/tree/master/0435-non-overlapping-intervals) |
