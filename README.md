@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/aditigandhi2701-hue/DSA/tree/master/0162-find-peak-element) |
 | [0169-majority-element](https://github.com/aditigandhi2701-hue/DSA/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/aditigandhi2701-hue/DSA/tree/master/0189-rotate-array) |
+| [0215-kth-largest-element-in-an-array](https://github.com/aditigandhi2701-hue/DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0229-majority-element-ii](https://github.com/aditigandhi2701-hue/DSA/tree/master/0229-majority-element-ii) |
 | [0239-sliding-window-maximum](https://github.com/aditigandhi2701-hue/DSA/tree/master/0239-sliding-window-maximum) |
 | [0240-search-a-2d-matrix-ii](https://github.com/aditigandhi2701-hue/DSA/tree/master/0240-search-a-2d-matrix-ii) |
@@ -156,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/aditigandhi2701-hue/DSA/tree/master/0075-sort-colors) |
 | [0148-sort-list](https://github.com/aditigandhi2701-hue/DSA/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/aditigandhi2701-hue/DSA/tree/master/0169-majority-element) |
+| [0215-kth-largest-element-in-an-array](https://github.com/aditigandhi2701-hue/DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0229-majority-element-ii](https://github.com/aditigandhi2701-hue/DSA/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/aditigandhi2701-hue/DSA/tree/master/0242-valid-anagram) |
 | [0435-non-overlapping-intervals](https://github.com/aditigandhi2701-hue/DSA/tree/master/0435-non-overlapping-intervals) |
@@ -171,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/aditigandhi2701-hue/DSA/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0148-sort-list](https://github.com/aditigandhi2701-hue/DSA/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/aditigandhi2701-hue/DSA/tree/master/0169-majority-element) |
+| [0215-kth-largest-element-in-an-array](https://github.com/aditigandhi2701-hue/DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0240-search-a-2d-matrix-ii](https://github.com/aditigandhi2701-hue/DSA/tree/master/0240-search-a-2d-matrix-ii) |
 ## Counting
 |  |
@@ -325,6 +328,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/aditigandhi2701-hue/DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0239-sliding-window-maximum](https://github.com/aditigandhi2701-hue/DSA/tree/master/0239-sliding-window-maximum) |
 | [0451-sort-characters-by-frequency](https://github.com/aditigandhi2701-hue/DSA/tree/master/0451-sort-characters-by-frequency) |
 ## Bucket Sort
@@ -579,4 +583,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0173-binary-search-tree-iterator](https://github.com/aditigandhi2701-hue/DSA/tree/master/0173-binary-search-tree-iterator) |
+## Quickselect
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/aditigandhi2701-hue/DSA/tree/master/0215-kth-largest-element-in-an-array) |
 <!---LeetCode Topics End-->
